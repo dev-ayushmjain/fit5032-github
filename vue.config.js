@@ -1,6 +1,6 @@
 export default defineConfig({
     // Add your repository base path here for production
-    base: process.env.NODE_ENV === 'production' ? '/fit5032/' : '/',
+    base: process.env.NODE_ENV === 'production' ? '/fit5032-github/' : '/',
     
     plugins: [
       vue(),
